@@ -61,7 +61,7 @@ while 1:
              print("COME BACK SOON!I'LL BE WAITING FOR YOU!")
              quit()
            else: 
-            print("Yeah !! You Wnat To Challenge Me Agian :- Come On Play With Me!")
+            print("Yeah !! You Want To Challenge Me Agian :- Come On Play With Me!")
             break
 
        guess=input('\nGuess a Word ')
