@@ -79,8 +79,8 @@ while 1:
                   print("No Problem Bro Try It Again :-) You Will Win this Game . ")
                   break
                 else:
-                    print("COME BACK SOON!I'LL BE WAITING FOR YOU!")
-                    quit()
+                  print("COME BACK SOON!I'LL BE WAITING FOR YOU!")
+                  quit()
                  
                         
 
